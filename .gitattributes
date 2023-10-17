@@ -1,0 +1,4 @@
+遊戲2.rar filter=lfs diff=lfs merge=lfs -text
+遊戲設計_FactoryLife_遊戲說明書.pdf filter=lfs diff=lfs merge=lfs -text
+factoryLife1.apk filter=lfs diff=lfs merge=lfs -text
+遊戲2 filter=lfs diff=lfs merge=lfs -text
